@@ -1,0 +1,4 @@
+project_deploy
+*.pyc
+.DS_Store
+.env
